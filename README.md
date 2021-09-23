@@ -15,7 +15,7 @@ In this project, I have created two different python scripts
 
 > Sync the static website directory into the configured bucket
 
-###DEMO
+### DEMO
 
 https://user-images.githubusercontent.com/64367344/134495258-3f308845-67e6-4eac-bb7e-8dea0d68dd44.mp4
 
@@ -35,6 +35,6 @@ https://user-images.githubusercontent.com/64367344/134495258-3f308845-67e6-4eac-
 
 > Launches an ec2 instance with the user-data and also performs start stop and terminate operation on the instance
 
-###DEMO
+### DEMO
 
 https://user-images.githubusercontent.com/64367344/134496222-de3ab641-1d1b-4824-a68e-cfc21e83e999.mp4
